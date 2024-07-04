@@ -8,7 +8,7 @@ interface BackButtonProps {
 
 export default function BackButton({ text, link }: BackButtonProps) {
     return (
-        <Link href={link} className={'text-gray-500 hover:underline flex items-center gap-1 font-bold mt-5'}>
+        <Link href={link} className={'text-gray-500 hover:underline flex items-center gap-1 font-bold mb-5 mt-5'}>
             <ArrowLeftCircle size={18} /> {text}
         </Link>
     )
