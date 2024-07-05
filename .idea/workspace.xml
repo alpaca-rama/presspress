@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89618fdb-ccc8-4f31-9fba-7a75b67b97c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(auth)/auth/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(main)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/auth/AuthTabs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/auth/LoginForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/auth/RegisterForm.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +71,7 @@
       <workItem from="1719396766321" duration="8144000" />
       <workItem from="1720081210781" duration="65000" />
       <workItem from="1720081375883" duration="6353000" />
-      <workItem from="1720171259996" duration="2519000" />
+      <workItem from="1720171259996" duration="2711000" />
     </task>
     <servers />
   </component>
